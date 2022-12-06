@@ -4,9 +4,7 @@
 	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4.xsd"
 	id="WebApp_ID" version="4.0">
 
-	<display-name>
-		myspring-mvc
-	</display-name>
+	<display-name>myspring-mvc</display-name>
 	<context-param>
 		<param-name>contextClass</param-name>
 		<param-value>
